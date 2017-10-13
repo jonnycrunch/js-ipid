@@ -1,0 +1,21 @@
+{
+  "name": "js-ipid",
+  "version": "0.0.1",
+  "description": "npm module to resolve IPID DIDs, a DID method spec built on IPFS and IPNS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnycrunch/js-ipid.git"
+  },
+  "keywords": [
+    "ipid",
+    "ipfs",
+    "did",
+    "npm"
+  ],
+  "author": "@jonnycrunch <jonnycrunch@me.com>",
+  "license": "MIT"
+}
